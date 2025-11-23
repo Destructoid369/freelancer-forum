@@ -28,3 +28,7 @@ const freelancer = () => {
 
 const rngFreelancer = freelancer();
 console.log(rngFreelancer);
+
+const average = (amount) => {
+  return (averageRate = amount / NUM_FREELANCERS.length);
+};
